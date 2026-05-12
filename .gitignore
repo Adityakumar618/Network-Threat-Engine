@@ -1,0 +1,12 @@
+# Datasets and Logs
+*.csv
+cicids2017/
+live_traffic.csv
+
+# Python Caches
+__pycache__/
+*.pyc
+
+# Environments
+venv/
+.env
