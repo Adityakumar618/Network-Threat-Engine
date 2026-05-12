@@ -160,7 +160,7 @@ Your contributions are welcome! Feel free to:
 
 ## 📜 License
 
-This project is licensed under the **MIT License**, allowing commercial use, modification, distribution, and private use. See the `LICENSE` file for details.
+This project is licensed under the **MIT License**, allowing commercial use, modification, distribution, and private use. 
 
 ---
 
