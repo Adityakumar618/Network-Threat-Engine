@@ -6,15 +6,15 @@ This project offers a **Live Network Defense System** fueled by anomaly detectio
 
 ## 📜 Table of Contents
 
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Usage](#usage)
-4. [Dataset and Model](#dataset-and-model)
-5. [Simulated Attack](#simulated-attack)
-6. [Live Traffic Sniffer](#live-traffic-sniffer)
-7. [Installation](#installation)
-8. [Contributing](#contributing)
-9. [License](#license)
+1. [Introduction](#-introduction)
+2. [Features](#-features)
+3. [Usage](#-usage)
+4. [Dataset and Model](#-dataset-and-model)
+5. [Simulated Attack](#-simulated-attack)
+6. [Live Traffic Sniffer](#️-live-traffic-sniffer)
+7. [Installation](#️-installation)
+8. [Contributing](#-contributing)
+9. [License](#-license)
 
 ---
 
