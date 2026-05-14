@@ -13,7 +13,7 @@ This project offers a **Live Network Defense System** fueled by anomaly detectio
 5. [Simulated Attack](#-simulated-attack)
 6. [Live Traffic Sniffer](#️-live-traffic-sniffer)
 7. [Installation](#️-installation)
-8. [Contributing](#-contributing)
+8. [Contributing](#contributing)
 9. [License](#-license)
 
 ---
