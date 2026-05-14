@@ -138,7 +138,7 @@ sudo pip install scapy
 
 ---
 
-## 👩‍💻 Contributing
+## Contributing
 
 Your contributions are welcome! Feel free to:
 - Report bugs
